@@ -1378,6 +1378,7 @@ textarea {
      object-fit: cover;
   max-width: var(--page-width);
   width: 100%;
+  border-radius: 12px
 }
 .content__featured-image--full {
   margin-left: calc(-50vw + 50% + var(--page-margin));
